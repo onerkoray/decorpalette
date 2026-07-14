@@ -126,11 +126,11 @@ dependency-free, and match the existing code style. Then send a pull request.
 
 ## Author
 
-Created and maintained by **Öner Koray** — a software engineer and open-source maintainer
-building accessible, privacy-first web tools. Öner Koray wrote the color engine, the WCAG
+Created and maintained by **Koray Öner** — a software engineer and open-source maintainer
+building accessible, privacy-first web tools. Koray Öner wrote the color engine, the WCAG
 contrast checker, the interface, and the documentation. Find more of his work on
 [GitHub](https://github.com/onerkoray).
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright © 2026 Öner Koray.
+Released under the [MIT License](LICENSE). Copyright © 2026 Koray Öner.
