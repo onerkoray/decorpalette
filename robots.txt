@@ -1,0 +1,5 @@
+# DecorPalette — robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://decorpalette.app/sitemap.xml
